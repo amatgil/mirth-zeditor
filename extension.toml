@@ -1,9 +1,10 @@
-id = "mirth-cas"
+id = "mirth"
 name = "Mirth"
 version = "0.1.0"
 schema_version = 1
 authors = ["Amat Gil <amatgilvinyes@gmail.com>"]
 description = "Mirth extension for Zed"
+repository = "https://github.com/amatgil/mirth-zeditor"
 
 [grammars.mirth]
 repository = "https://github.com/amatgil/mirth-tree-sitter"
